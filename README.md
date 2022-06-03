@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center">Hi there<img src="https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin/Images/Hello.gif" height="32" />, I'm CoolPlayLin </h2>
+<h3 align="center">A beginner in Chinese html</h3>
 
 <!--
 **CoolPlayLin/CoolPlayLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
