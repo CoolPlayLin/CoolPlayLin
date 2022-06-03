@@ -13,14 +13,9 @@
 </ul>
 
 ### Other
-<html>
-    <link rel="preload" href="//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-    <link rel="stylesheet" href="//at.alicdn.com/t/font_3434521_n2o7fpmva9m.css">
-    <ul>
-        <li class="navigation__item">
-            <a style="color: black;" href="https://gitee.com/coolplaylin" title="Gitee">
-                <i class='iconfont icon-gitee'></i>
-                <span class="iconfont icon-Gitee">Gitee</span>
-            </a>
-    </ul>
-    </html>
+<link rel="preload" href="//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="stylesheet" href="//at.alicdn.com/t/font_3434521_n2o7fpmva9m.css">
+<li class="navigation__item">
+<a style="color: black;" href="https://gitee.com/coolplaylin" title="Gitee">
+<i class='iconfont icon-gitee'></i>
+<span class="iconfont icon-Gitee">Gitee</span>
