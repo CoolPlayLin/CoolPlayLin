@@ -9,15 +9,15 @@
     <li>📝 I regulary write articles on <a href="https://start.c155.top">https://start.c155.top</a>.</li>
     <li>🔭 I’m currently working on How to set up a personal website.</li>
     <li>📫 How to reach me:<a style="color: rgb(0, 255, 34);" href="mailto:CoolPlayLin@foxmail.com">CoolPlayLin@foxmail.com</a></li>
-    <li>💬 </li>
+    <li>💬 You can find me in Gitee</li>
 </ul>
 
 ### Other
 <html>
-    <ul>
     <head>
         <link rel="stylesheet" type="text/css" href="https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/css/iconfont.css">  
     </head>
+    <ul>
         <li class="navigation__item">
             <a style="color: black;" href="https://gitee.com/coolplaylin" title="Gitee">
                 <i class='iconfont icon-gitee'></i>
