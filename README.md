@@ -1,24 +1,28 @@
 <h2 align="center">Hi there<img src="https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin/Images/Hello.gif" height="32" />, I'm CoolPlayLin </h2>
 <h3 align="center">A beginner in Chinese html</h3>
 
-<!--
-**CoolPlayLin/CoolPlayLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
--  ...
-- 💬 Ask me about ...
--  ...
--  ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Quick Introduction
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CoolPlayLin&theme=default&show_icons=true">
 
 <ul>
     <li>😄 Pronouns:CoolCodes</li>
+    <li>📝 I regulary write articles on <a href="https://start.c155.top">https://start.c155.top</a>.</li>
     <li>🔭 I’m currently working on How to set up a personal website.</li>
-    <li>📫 How to reach me:My Email is <a style="color: rgb(0, 255, 34);" href="mailto:CoolPlayLin@foxmail.com">CoolPlayLin@foxmail.com</a></li>
+    <li>📫 How to reach me:<a style="color: rgb(0, 255, 34);" href="mailto:CoolPlayLin@foxmail.com">CoolPlayLin@foxmail.com</a></li>
+    <li>💬 </li>
 </ul>
+
+### Other
+<html>
+    <ul>
+    <head>
+        <link rel="stylesheet" type="text/css" href="https://fastly.jsdelivr.net/gh/CoolPlayLin/CoolPlayLin.github.io/assets/css/iconfont.css">  
+    </head>
+        <li class="navigation__item">
+            <a style="color: black;" href="https://gitee.com/coolplaylin" title="Gitee">
+                <i class='iconfont icon-gitee'></i>
+                <span class="label">Gitee</span>
+            </a>
+        </li>
+    </ul>
+    </html>
