@@ -14,8 +14,17 @@
 
 ### Other
 <link rel="preload" href="//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="stylesheet" href="//at.alicdn.com/t/font_3434521_n2o7fpmva9m.css">
-<li class="navigation__item">
-<a style="color: black;" href="https://gitee.com/coolplaylin" title="Gitee">
-<i class='iconfont icon-gitee'></i>
-<span class="iconfont icon-Gitee">Gitee</span>
+@font-face {
+  font-family: 'iconfont';
+  src: url('//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff2?t=1654218633338') format('woff2'),
+       url('//at.alicdn.com/t/font_3434521_n2o7fpmva9m.woff?t=1654218633338') format('woff'),
+       url('//at.alicdn.com/t/font_3434521_n2o7fpmva9m.ttf?t=1654218633338') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+<span class="iconfont">&#xe64f;</span>
