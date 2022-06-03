@@ -16,8 +16,4 @@
 <ul>
     <li>😍 Now,Let us enjoy a video</li>
 </ul>
-<html>
-    <video width="320" height="240">
-        <source src="Earth.mp4" type="video/mp4">
-    </video>
-</html>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E8Qn_4R2S_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
