@@ -1,7 +1,7 @@
 User-agent: Baiduspider
 Disallow: 
 User-agent: Bingbot
-Disallow: /
+Disallow: 
 User-agent: Sogou web spider
 Disallow: 
 User-agent: Sosospider
