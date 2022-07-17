@@ -1,5 +1,5 @@
 <h2 align="center">Hi there<img src="https://api.nationalstore.shop/https://github.com/CoolPlayLin/CoolPlayLin/blob/main/README.assets/Hello.gif" height="32">, I'm CoolPlayLin </h2>
-<h3 align="center">A beginner in Chinese html</h3>
+<h3 align="center">A novice software developer</h3>
 
 # ⚡️ Quick Introduction
 
