@@ -2,7 +2,6 @@
 <h3 align="center">A beginner in Chinese html</h3>
 
 # ⚡️ Quick Introduction
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CoolPlayLin&theme=default&show_icons=true">
 
 <ul>
     <li>📝 I regulary write articles on <a href="https://start.c155.top">https://start.c155.top</a>.</li>
@@ -33,3 +32,6 @@
  **Exegesis:**
 1. **The Github acceleration service is strongly powered by [Gh-Proxy](https://github.com/hunshcn/gh-proxy/)**
 2. **Github Download Acceleration Plugin Service is provided by [Gh-Proxy-Buttons](https://github.com/du33169/gh-proxy-buttons) are modified**
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPlayLin)](https://github.com/anuraghazra/github-readme-stats)
