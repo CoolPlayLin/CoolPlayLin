@@ -34,7 +34,7 @@
 2. **Github Download Acceleration Plugin Service is provided by [Gh-Proxy-Buttons](https://github.com/du33169/gh-proxy-buttons) are modified**
 
 
-# Others
+# 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPlayLin)](https://github.com/anuraghazra/github-readme-stats)
