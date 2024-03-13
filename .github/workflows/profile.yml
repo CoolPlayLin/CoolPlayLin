@@ -28,7 +28,7 @@ jobs:
           git config --global user.email 130831920+coolplaylinbot@users.noreply.github.com
           git config --global user.name coolplaylinbot
       - name: Checkout
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4.1.2
         with:
           token: ${{ secrets.COOLPLAYLIN_BOT_TOKEN }}
       - name: Push to master
