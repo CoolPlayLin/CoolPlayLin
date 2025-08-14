@@ -5,13 +5,6 @@ import pathlib
 import json
 import os
 
-if (pathlib.Path(__file__).parents[1] / "config.json").exists():
-    with open(pathlib.Path(__file__).parents[1] / "config.json", "r", encoding="utf-8") as f:
-        config = json.load(f)
-        if not config["Photo"]:
-            print("Photo Upgrader has been disabled")
-            exit(0)
-
 # Setup
 apis = ["https://i18.net/bing.php"]
 PATH = pathlib.Path(__file__).parents[1] / "photo.png"
@@ -44,4 +37,10 @@ def main():
 
 
 if __name__ == "__main__":
+    if (pathlib.Path(__file__).parents[1] / "config.json").exists():
+        with open(pathlib.Path(__file__).parents[1] / "config.json", "r", encoding="utf-8") as f:
+            config = json.load(f)
+            if not config["Image_up"]:
+                print("Image Updater has been disabled")
+                exit(0)
     main()
