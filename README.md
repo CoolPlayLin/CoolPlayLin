@@ -1,4 +1,4 @@
-[爱发电主页](https://afdian.com/a/CoolPlayLin)
+[![](https://raw.githubusercontent.com/CoolPlayLin/CoolPlayLin/master/aifadian.png)](https://afdian.com/a/CoolPlayLin)
 
 ---
 
