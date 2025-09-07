@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta charset="utf-8">
+    <title>404 Not Found</title>
+    <style>
+        html, #content {
+            background: #fff;
+        }
+        .error-container {
+            margin: 150px auto;
+            text-align: center;
+            padding: 0 20px;
+        }
+        .error-info {
+            margin-top: 20px;
+            color: #666;
+            font-family: Arial, sans-serif;
+        }
+        .error-details {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <img alt="404 Not Found" src="https://img.i18.net/images/2025/08/01/643f5b2f56bd1341e153f94456fa254c.jpg" style="width:100%; max-width:300px;">
+        <div class="error-info">
+            <h1>404 Not Found</h1>
+            <div class="error-details">
+                <p>Connection: 172.172.87.49 (Client) ->  (Server)</p>
+                <p>Request ID: 1757211261703861000001</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
