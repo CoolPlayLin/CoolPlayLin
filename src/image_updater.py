@@ -8,7 +8,7 @@ import os
 # Setup
 apis = ["https://i18.net/bing.php"]
 PATH = pathlib.Path(__file__).parents[1] / "photo.png"
-HISTORY_PATH = pathlib.Path(__file__).parents[1] / "assets"
+HISTORY_PATH = pathlib.Path(__file__).parents[1] / "assets" / "background"
 
 
 def main():
