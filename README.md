@@ -1,8 +1,8 @@
 <table align="center">
     <tr>
-    <th>爱发电</th>
-    <th>支付宝</th>
-    <th>微信</th>
+    <th>Aifadian|爱发电</th>
+    <th>Alipay|支付宝</th>
+    <th>Wechat Pay|微信</th>
     </tr>
     <tr>
         <th>
@@ -25,12 +25,7 @@
 
 ---
 
-| ![](https://raw.githubusercontent.com/CoolPlayLin/CoolPlayLin/master/metrics.classic.svg) | ![](https://github-readme-stats.vercel.app//api?username=CoolPlayLin&count_private=true&show_icons=true&theme=github_dark_dimmed) |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/CoolPlayLin/CoolPlayLin/master/photo.png)](https://github.com/CoolPlayLin)
-
-- 一言
+- Quote
 
 ```
 别以为我长的帅就认为我遥不可及高不可攀，其实我是海纳百川啊！ --佚名
